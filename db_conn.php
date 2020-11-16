@@ -1,9 +1,9 @@
 <?php
 
 
-$sName = "localhost";
+$sName = "localhost:3307";
 $uName = "root";
-$pass = "";
+$pass = "root";
 $db_name = "to_do_list";
 
 
